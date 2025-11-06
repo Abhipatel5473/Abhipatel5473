@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <a href="https://github.com/Abhipatel5473">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&pause=1000&color=FFFFFF&width=1000&lines=👋+Hey+there!+I'm+%3Cstrong%3EAbhi+Patel%3C%2Fstrong%3E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&pause=1000&color=FFFFFF&width=1000&lines=👋+Hey+there!+I'm+Abhi+Patel" alt="Typing SVG" />
 </a>
 
 <br/>
