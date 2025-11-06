@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=👋+Hey+there!+I'm+Abhi+Patel;💻+Front-End+Developer;🎨+UI%2FUX+Designer+(Part-Time);🚀+Aspiring+Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
-
+<!-- thin / light underline for dark mode -->
 <h3 align="center">💻 Front-End Developer | 🎨 UI/UX Designer (Part-Time) | 🚀 Aspiring Full Stack Developer</h3>
 
 <!-- thin / light underline for dark mode -->
@@ -26,7 +26,7 @@
 </p>
 
 <hr style="border:0.5px solid rgba(255,255,255,0.08)"/>
-
+<!-- thin / light underline for dark mode -->
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
