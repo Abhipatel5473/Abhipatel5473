@@ -1,26 +1,19 @@
 <!-- Typing SVG Effect -->
-<p align="center">
-  <a href="https://github.com/Abhipatel5473">
-    <img src="https://readme-typing-svg.herokuapp.com?font-weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=👋+Hey+there!+I'm+Abhi+Patel;💻+Front-End+Developer;🎨+UI%2FUX+Designer+(Part-Time);🚀+Aspiring+Full+Stack+Developer" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://github.com/Abhipatel5473">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&pause=1000&color=FFFFFF&width=1000&lines=👋+Hey+there!+I'm+Abhi+Patel;💻+Front-End+Developer;🎨+UI%2FUX+Designer+(Part-Time);🚀+Aspiring+Full+Stack+Developer" alt="Typing SVG" />
+</a>
 
-<h3 align="center">💻 Front-End Developer | 🎨 UI/UX Designer (Part-Time) | 🚀 Aspiring Full Stack Developer</h3>
+<h3>💻 Front-End Developer | 🎨 UI/UX Designer (Part-Time) | 🚀 Aspiring Full Stack Developer</h3>
 
-<hr style="border:0.5px solid rgba(255,255,255,0.08)"/>
+<hr style="border:0.3px solid rgba(255,255,255,0.06)"/>
 
-<!-- SHORT About Me -->
-<h2>🧠 About Me</h2>
+## 🧠 About Me
+- 🔭 Currently improving my **Front-End skills**  
+- 🌱 Learning **React** & diving into **Full Stack Development**  
+- 💡 Passionate about crafting modern, responsive, and clean UI designs  
+- ⚡ Fun fact: I turn coffee ☕ into clean, readable code 😄  
 
-<ul style="list-style-type: '✨ '; font-size:15px; line-height:1.7; max-width:700px; margin:auto;">
-  <li>Passionate about crafting beautiful, responsive, and user-friendly web interfaces.</li>
-  <li>Currently learning <strong>React</strong> and exploring backend technologies to become a Full Stack Developer.</li>
-  <li>Love designing UI layouts and prototypes in <strong>Figma</strong>.</li>
-  <li>Focus on writing clean, structured, and maintainable code.</li>
-  <li>Always excited to work on creative and design-focused projects.</li>
-</ul>
-
-<hr style="border:0.5px solid rgba(255,255,255,0.08)"/>
+<hr style="border:0.3px solid rgba(255,255,255,0.06)"/>
 
 ### 🛠️ Tech Stack & Tools
 
@@ -35,7 +28,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<hr style="border:0.5px solid rgba(255,255,255,0.08)"/>
+<hr style="border:0.3px solid rgba(255,255,255,0.06)"/>
 
 ### 🚀 My Projects
 
@@ -46,7 +39,7 @@
 | 🪑 **Furnix** | Premium furniture website with product animations & gallery. | 🔗 [View Repo](https://github.com/Abhipatel5473) |
 | 👕 **Cara E-commerce** | Responsive online shopping UI with filters & hover effects. | 🔗 [View Repo](https://github.com/Abhipatel5473) |
 
-<hr style="border:0.5px solid rgba(255,255,255,0.08)"/>
+<hr style="border:0.3px solid rgba(255,255,255,0.06)"/>
 
 ### 📊 GitHub Stats
 
@@ -59,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhipatel5473&layout=compact&theme=tokyonight" height="165" />
 </p>
 
-<hr style="border:0.5px solid rgba(255,255,255,0.08)"/>
+<hr style="border:0.3px solid rgba(255,255,255,0.06)"/>
 
 ### 🤝 Connect with Me
 <p align="center">
@@ -68,7 +61,7 @@
   <a href="https://github.com/Abhipatel5473"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<hr style="border:0.5px solid rgba(255,255,255,0.08)"/>
+<hr style="border:0.3px solid rgba(255,255,255,0.06)"/>
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
 <p align="center">⭐ If you like my work, consider giving my repositories a star!</p>
