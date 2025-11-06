@@ -5,7 +5,7 @@
 
 <h3>💻 Front-End Developer | 🎨 UI/UX Designer (Part-Time) | 🚀 Aspiring Full Stack Developer</h3>
 
-<hr style="border:0.3px solid rgba(255,255,255,0.06)"/>
+---
 
 ## 🧠 About Me
 - 🔭 Currently improving my **Front-End skills**  
@@ -13,7 +13,7 @@
 - 💡 Passionate about crafting modern, responsive, and clean UI designs  
 - ⚡ Fun fact: I turn coffee ☕ into clean, readable code 😄  
 
-<hr style="border:0.3px solid rgba(255,255,255,0.06)"/>
+---
 
 ### 🛠️ Tech Stack & Tools
 
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<hr style="border:0.3px solid rgba(255,255,255,0.06)"/>
+---
 
 ### 🚀 My Projects
 
@@ -39,7 +39,7 @@
 | 🪑 **Furnix** | Premium furniture website with product animations & gallery. | 🔗 [View Repo](https://github.com/Abhipatel5473) |
 | 👕 **Cara E-commerce** | Responsive online shopping UI with filters & hover effects. | 🔗 [View Repo](https://github.com/Abhipatel5473) |
 
-<hr style="border:0.3px solid rgba(255,255,255,0.06)"/>
+---
 
 ### 📊 GitHub Stats
 
@@ -52,16 +52,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhipatel5473&layout=compact&theme=tokyonight" height="165" />
 </p>
 
-<hr style="border:0.3px solid rgba(255,255,255,0.06)"/>
+---
 
-### 🤝 Connect with Me
+### 🌐 Socials:
 <p align="center">
   <a href="mailto:abhipatel5473@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abhi-patel-webdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Abhipatel5473"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<hr style="border:0.3px solid rgba(255,255,255,0.06)"/>
+---
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
 <p align="center">⭐ If you like my work, consider giving my repositories a star!</p>
