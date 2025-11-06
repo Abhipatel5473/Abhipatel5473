@@ -1,13 +1,18 @@
-<!-- Typing SVG Effect -->
+<!-- Typing SVG -->
 <a href="https://github.com/Abhipatel5473">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&pause=1000&color=FFFFFF&width=1000&lines=👋+Hey+there!+I'm+Abhi+Patel;💻+Front-End+Developer;🎨+UI%2FUX+Designer+(Part-Time);🚀+Aspiring+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&pause=1000&color=FFFFFF&width=1000&lines=👋+Hey+there!+I'm+Abhi+Patel;💻+Front-End+Developer;🎨+UI%2FUX+Designer+(Part-Time);🚀+Aspiring+Full+Stack+Developer" alt="Typing SVG" />
 </a>
 
-<h3>💻 Front-End Developer | 🎨 UI/UX Designer (Part-Time) | 🚀 Aspiring Full Stack Developer</h3>
+---
+
+### 💻 Front-End Developer | 🎨 UI/UX Designer (Part-Time) | 🚀 Aspiring Full Stack Developer
+
+✨ Passionate about creating clean, modern, and responsive designs that enhance user experience.
 
 ---
 
 ## 🧠 About Me
+
 - 🔭 Currently improving my **Front-End skills**  
 - 🌱 Learning **React** & diving into **Full Stack Development**  
 - 💡 Passionate about crafting modern, responsive, and clean UI designs  
@@ -15,7 +20,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,7 +35,7 @@
 
 ---
 
-### 🚀 My Projects
+## 🚀 Projects
 
 | Project | Description | Link |
 |----------|--------------|------|
@@ -41,7 +46,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhipatel5473&show_icons=true&theme=tokyonight" height="165" />
@@ -54,8 +59,8 @@
 
 ---
 
-### 🌐 Socials:
-<p align="center">
+## 🌐 Socials
+<p>
   <a href="mailto:abhipatel5473@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abhi-patel-webdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Abhipatel5473"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
