@@ -1,32 +1,27 @@
 <!-- Typing SVG Effect -->
 <p align="center">
   <a href="https://github.com/Abhipatel5473">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=👋+Hey+there!+I'm+Abhi+Patel;💻+Front-End+Developer;🎨+UI%2FUX+Designer+(Part-Time);🚀+Aspiring+Full+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font-weight=700&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=👋+Hey+there!+I'm+Abhi+Patel;💻+Front-End+Developer;🎨+UI%2FUX+Designer+(Part-Time);🚀+Aspiring+Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
-<!-- thin / light underline for dark mode -->
+
 <h3 align="center">💻 Front-End Developer | 🎨 UI/UX Designer (Part-Time) | 🚀 Aspiring Full Stack Developer</h3>
 
-<!-- thin / light underline for dark mode -->
 <hr style="border:0.5px solid rgba(255,255,255,0.08)"/>
 
-<!-- BIG About Me -->
-<h2 align="center">🧠 About Me</h2>
+<!-- SHORT About Me -->
+<h2>🧠 About Me</h2>
 
-<p align="center" style="font-size:16px;max-width:900px;line-height:1.6">
-  Hello — I'm <strong>Abhi Patel</strong>, a passionate <em>Front-End Developer</em> and part-time <em>UI/UX Designer</em>. I build clean, responsive, and user-focused web interfaces using modern front-end technologies.
-</p>
-
-<p align="center" style="font-size:15px;max-width:900px;line-height:1.6">
-  I love turning design concepts into polished, accessible experiences. Currently deepening my knowledge in React and exploring backend fundamentals to grow into a confident Full-Stack Developer. I enjoy collaborating on design-driven projects and crafting interfaces that feel thoughtful and intuitive.
-</p>
-
-<p align="center" style="font-size:15px;max-width:900px;line-height:1.6">
-  When I'm not coding, you'll find me experimenting with UI animations, refining micro-interactions, or sketching layouts in Figma — always with a cup of coffee nearby ☕.
-</p>
+<ul style="list-style-type: '✨ '; font-size:15px; line-height:1.7; max-width:700px; margin:auto;">
+  <li>Passionate about crafting beautiful, responsive, and user-friendly web interfaces.</li>
+  <li>Currently learning <strong>React</strong> and exploring backend technologies to become a Full Stack Developer.</li>
+  <li>Love designing UI layouts and prototypes in <strong>Figma</strong>.</li>
+  <li>Focus on writing clean, structured, and maintainable code.</li>
+  <li>Always excited to work on creative and design-focused projects.</li>
+</ul>
 
 <hr style="border:0.5px solid rgba(255,255,255,0.08)"/>
-<!-- thin / light underline for dark mode -->
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
@@ -46,18 +41,18 @@
 
 | Project | Description | Link |
 |----------|--------------|------|
-| 🛒 **Amazon Clone** | A fully responsive Amazon homepage clone built with HTML, CSS, and JavaScript. Focus: layout, product grid & responsive nav. | 🔗 [View Repo](https://github.com/Abhipatel5473) |
-| 🍔 **Foodie Website** | A modern food website with interactive UI, menu cards, and mobile-first responsive design. | 🔗 [View Repo](https://github.com/Abhipatel5473) |
-| 🪑 **Furnix** | A premium furniture website showcasing product galleries, animations and detail pages. | 🔗 [View Repo](https://github.com/Abhipatel5473) |
-| 👕 **Cara E-commerce** | A shopping website featuring product cards, filters, hover effects & responsive checkout layout. | 🔗 [View Repo](https://github.com/Abhipatel5473) |
+| 🛒 **Amazon Clone** | Fully responsive e-commerce homepage built with HTML, CSS & JS. | 🔗 [View Repo](https://github.com/Abhipatel5473) |
+| 🍔 **Foodie Website** | Interactive and modern food website with responsive menu design. | 🔗 [View Repo](https://github.com/Abhipatel5473) |
+| 🪑 **Furnix** | Premium furniture website with product animations & gallery. | 🔗 [View Repo](https://github.com/Abhipatel5473) |
+| 👕 **Cara E-commerce** | Responsive online shopping UI with filters & hover effects. | 🔗 [View Repo](https://github.com/Abhipatel5473) |
 
 <hr style="border:0.5px solid rgba(255,255,255,0.08)"/>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhipatel5473&show_icons=true&theme=tokyonight" alt="Abhi's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhipatel5473&theme=tokyonight" alt="Abhi's GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhipatel5473&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhipatel5473&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
@@ -76,4 +71,4 @@
 <hr style="border:0.5px solid rgba(255,255,255,0.08)"/>
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
-<p align="center">⭐ If you like my work, give some repos a star — it means a lot!</p>
+<p align="center">⭐ If you like my work, consider giving my repositories a star!</p>
