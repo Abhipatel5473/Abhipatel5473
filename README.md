@@ -1,7 +1,11 @@
 <!-- Typing SVG -->
-<a href="https://github.com/Abhipatel5473">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&pause=1000&color=FFFFFF&width=1000&lines=👋+Hey+there!+I'm+Abhi+Patel" alt="Typing SVG" />
-</a>
+<div align="left">
+  <a href="https://github.com/Abhipatel5473">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&pause=1000&color=FFFFFF&width=1000&lines=👋+Hey+there!+I'm+Abhi+Patel" alt="Typing SVG" />
+  </a>
+  <hr style="border: 0.5px solid #444; margin-top: 5px; width: 100%;" />
+</div>
+
 
 ### 💻 **Front-End Developer** | 🎨 **UI/UX Designer (Part-Time)** | 🚀 **Aspiring Full Stack Developer**
 
