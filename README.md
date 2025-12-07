@@ -25,7 +25,7 @@
 
 - 🧩 Enjoy solving layout challenges and turning ideas into polished digital products
 
-## ⚡ Fun Notes
+## ⚡ Fun Side of Me
 
 - I turn coffee ☕ into clean UI & smooth user experience
 
