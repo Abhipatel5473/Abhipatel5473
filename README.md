@@ -53,7 +53,7 @@
 
 | Project | Description | Link |
 |----------|--------------|------|
-| 🛒 **Amazon Clone** | Fully responsive e-commerce homepage built with HTML, CSS & JS. | 🔗 [View Repo](https://github.com/Abhipatel5473) |
+| 🛒 **Amazon Clone** | Fully responsive e-commerce homepage built with HTML, CSS & JS. | 🔗 [View Project](https://amazon-clone-chi-lovat.vercel.app/) |
 | 🍔 **Foodie Website** | Interactive and modern food website with responsive menu design. | 🔗 [View Project](https://food-website-xi-lilac.vercel.app/) |
 | 🪑 **Furnix** | Premium furniture website with product animations & gallery. | 🔗 [View Project](https://furnix-iota.vercel.app/) |
 | 👕 **Cara E-commerce** | Responsive online shopping UI with filters & hover effects. | 🔗 [View Repo](https://github.com/Abhipatel5473) |
