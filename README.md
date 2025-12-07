@@ -25,6 +25,14 @@
 
 - 🧩 Enjoy solving layout challenges and turning ideas into polished digital products
 
+## ⚡ Fun Notes
+
+- I turn coffee ☕ into clean UI & smooth user experience
+
+- Curious brain, always exploring new frameworks & design inspirations
+
+- Believe in mixing creativity with logic to build impactful digital experiences
+
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
