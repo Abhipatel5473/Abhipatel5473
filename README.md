@@ -11,11 +11,19 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently improving my **Front-End skills**  
-- 🌱 Learning **React** & diving into **Full Stack Development**  
-- 💡 Passionate about crafting modern, responsive, and clean UI designs  
-- ⚡ Fun fact: I turn coffee ☕ into clean, readable code 😄  
+- 🎯 Front-End Developer dedicated to building modern, responsive, and visually engaging interfaces
 
+- 🖌️ Skilled in converting UI/UX designs into pixel-perfect, fully responsive websites
+
+- 🧱 Strong focus on clean code architecture, reusability, and accessibility
+
+- ⚛️ Experienced with React and building dynamic, high-performance web applications
+
+- ✨ Passionate about enhancing user experience through smooth interactions and animations
+
+- 🤝 Ability to collaborate in team environments using Git & GitHub workflows
+
+- 🧩 Enjoy solving layout challenges and turning ideas into polished digital products
 
 ## 🛠️ Tech Stack & Tools
 
