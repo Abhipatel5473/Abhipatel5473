@@ -13,7 +13,7 @@
 <hr style="height: 2.5px; background-color: #666; border: none; width: 80%; margin: auto;">
 
 
-<h2>👨‍💻 About Me</h2>
+<h1>👨‍💻 About Me</h1>
 
 I'm Abhi Patel, a passionate Front-End Developer focused on building visually engaging, responsive, and high-performance digital experiences with modern web technologies.
 
@@ -31,14 +31,14 @@ To craft web experiences that blend beautiful UI, seamless usability, and modern
 <hr style="height: 2.5px; background-color: #666; border: none; width: 80%; margin: auto;">
 
 
-<h2>⚡ Fun Side of Me</h2>
+<h1>⚡ Fun Side of Me</h1>
 
 - I turn coffee ☕ into clean UI & smooth user experience
 <br>
 <hr style="height: 2.5px; background-color: #666; border: none; width: 80%; margin: auto;">
 
 
-<h2>🌐 Socials</h2>
+<h1>🌐 Socials</h1>
 <p>
   <a href="mailto:abhipatel5473@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abhi-patel-webdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -48,7 +48,7 @@ To craft web experiences that blend beautiful UI, seamless usability, and modern
 <hr style="height: 2.5px; background-color: #666; border: none; width: 80%; margin: auto;">
 
 
-<h2>🛠️ Tech Stack & Tools</h2>
+<h1>🛠️ Tech Stack & Tools</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -66,7 +66,7 @@ To craft web experiences that blend beautiful UI, seamless usability, and modern
 <hr style="height: 2.5px; background-color: #666; border: none; width: 80%; margin: auto;">
 
 
-<h2>🚀 Projects</h2>
+<h1>🚀 Projects</h1>
 
 | Project | Description | Link |
 |----------|--------------|------|
@@ -78,7 +78,7 @@ To craft web experiences that blend beautiful UI, seamless usability, and modern
 <hr style="height: 2.5px; background-color: #666; border: none; width: 80%; margin: auto;">
 
 
-<h2>📊 GitHub Stats</h2>
+<h1>📊 GitHub Stats</h1>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhipatel5473&theme=tokyonight" />
