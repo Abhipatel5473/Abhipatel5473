@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/Abhipatel5473">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&pause=1000&color=FF0000&width=500&lines=👋+Hey+there!+I'm+Abhi+Patel" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&pause=1000&color=00A8FF&width=500&lines=👋+Hey+there!+I'm+Abhi+Patel" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 <br>
 
 
-<h1>🧠 About Me</h1>
+<h2>🧠 About Me</h2>
 
 - 🎯 Front-End Developer dedicated to building modern, responsive, and visually engaging interfaces
 
@@ -30,13 +30,13 @@
 <br>
 
 
-<h1>⚡ Fun Side of Me</h1>
+<h2>⚡ Fun Side of Me</h2>
 
 - I turn coffee ☕ into clean UI & smooth user experience
 <br>
 
 
-<h1>🌐 Socials</h1>
+<h2>🌐 Socials</h2>
 <p>
   <a href="mailto:abhipatel5473@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abhi-patel-webdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -45,7 +45,7 @@
 <br>
 
 
-<h1>🛠️ Tech Stack & Tools</h1>
+<h2>🛠️ Tech Stack & Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -62,7 +62,7 @@
 <br>
 
 
-<h1>🚀 Projects</h1>
+<h2>🚀 Projects</h2>
 
 | Project | Description | Link |
 |----------|--------------|------|
@@ -73,7 +73,7 @@
 <br>
 
 
-<h1>📊 GitHub Stats</h1>
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhipatel5473&theme=tokyonight" />
