@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-<a href="https://github.com/Abhipatel5473">
+<a align="center" color="skyblue" href="https://github.com/Abhipatel5473">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&pause=1000&color=FFFFFF&width=1000&lines=👋+Hey+there!+I'm+Abhi+Patel" alt="Typing SVG" />
 </a>
 
@@ -10,7 +10,7 @@
 
 
 
-## 🧠 About Me
+<h1>🧠 About Me</h1>
 
 - 🎯 Front-End Developer dedicated to building modern, responsive, and visually engaging interfaces
 
@@ -25,16 +25,16 @@
 - 🤝 Ability to collaborate in team environments using Git & GitHub workflows
 
 - 🧩 Enjoy solving layout challenges and turning ideas into polished digital products
+<br>
 
 
-
-## ⚡ Fun Side of Me
+<h1>⚡ Fun Side of Me</h1>
 
 - I turn coffee ☕ into clean UI & smooth user experience
 
 
 
-## 🌐 Socials
+<h1>🌐 Socials</h1>
 <p>
   <a href="mailto:abhipatel5473@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abhi-patel-webdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -43,7 +43,7 @@
 
 
 
-## 🛠️ Tech Stack & Tools
+<h1>🛠️ Tech Stack & Tools</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -60,7 +60,7 @@
 
 
 
-## 🚀 Projects
+<h1>🚀 Projects</h1>
 
 | Project | Description | Link |
 |----------|--------------|------|
@@ -71,7 +71,7 @@
 
 
 
-## 📊 GitHub Stats
+<h1>📊 GitHub Stats</h1>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhipatel5473&theme=tokyonight" />
@@ -86,7 +86,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhipatel5473&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhipatel5473&theme=tokyonight&utcOffset=5" />
 </p>
-
+<br>
 
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
