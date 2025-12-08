@@ -6,8 +6,8 @@
 
 <h1 align="center"> 💻 Front-End Developer | 🎨 UI/UX Designer (Part-Time) | 🚀 Aspiring Full Stack Developer</h1>
 
-✨ Passionate about creating clean, modern, and responsive designs that enhance user experience.
-
+<p align="center">✨ Passionate about creating clean, modern, and responsive designs that enhance user experience.</p>
+<br>
 
 
 <h1>🧠 About Me</h1>
@@ -31,7 +31,7 @@
 <h1>⚡ Fun Side of Me</h1>
 
 - I turn coffee ☕ into clean UI & smooth user experience
-
+<br>
 
 
 <h1>🌐 Socials</h1>
@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/abhi-patel-webdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Abhipatel5473"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
+<br>
 
 
 <h1>🛠️ Tech Stack & Tools</h1>
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
-
+<br>
 
 
 <h1>🚀 Projects</h1>
@@ -68,7 +68,7 @@
 | 🍔 **Foodie Website** | Food-Website — A modern, fully responsive food website showcasing dishes with clean UI design and smooth navigation. Built for optimal viewing on desktop and mobile, it offers an intuitive user experience and polished presentation of menus and content. | 🔗 [View Project](https://food-website-xi-lilac.vercel.app/) |
 | 🪑 **Furnix** | Furnix — A sleek, fully responsive furniture website delivering a clean, modern user interface and smooth navigation across devices. Featuring elegant product displays and intuitive design, Furnix offers a polished browsing experience optimized for both desktop and mobile. | 🔗 [View Project](https://furnix-iota.vercel.app/) |
 | 👕 **Cara E-commerce** | CARA E-Commerce — A modern, fully responsive online store prototype built with HTML, CSS, and JavaScript. Featuring clean product layouts, intuitive navigation, and fluid design for seamless browsing on any device. | 🔗 [View Project](https://cara-e-commerce-three.vercel.app/) |
-
+<br>
 
 
 <h1>📊 GitHub Stats</h1>
