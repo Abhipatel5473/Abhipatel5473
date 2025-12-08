@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-<a align="center" color="skyblue" href="https://github.com/Abhipatel5473">
+<a align="center" href="https://github.com/Abhipatel5473">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&pause=1000&color=FFFFFF&width=1000&lines=👋+Hey+there!+I'm+Abhi+Patel" alt="Typing SVG" />
 </a>
 
