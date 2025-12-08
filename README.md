@@ -15,19 +15,20 @@
 
 <h2>🧠 About Me</h2>
 
-- 🎯 Front-End Developer dedicated to building modern, responsive, and visually engaging interfaces
+👨‍💻 About Me
 
-- 🖌️ Skilled in converting UI/UX designs into pixel-perfect, fully responsive websites
+I'm Abhi Patel, a passionate Front-End Developer focused on building visually engaging, responsive, and high-performance digital experiences with modern web technologies.
 
-- 🧱 Strong focus on clean code architecture, reusability, and accessibility
+💡 What I Do
 
-- ⚛️ Experienced with React and building dynamic, high-performance web applications
+-- Pixel-perfect, UI/UX-driven interfaces with clean design and smooth interactions
+-- Responsive layouts optimized for all devices & screen sizes
+-- Performance-oriented development ensuring fast, seamless user journeys
+-- Modern JavaScript & Frameworks (React, JS, UI libraries)
 
-- ✨ Passionate about enhancing user experience through smooth interactions and animations
+🚀 My Vision
 
-- 🤝 Ability to collaborate in team environments using Git & GitHub workflows
-
-- 🧩 Enjoy solving layout challenges and turning ideas into polished digital products
+To craft web experiences that blend beautiful UI, seamless usability, and modern tech — and grow toward Full-Stack development with strong engineering foundations.
 <br>
 <hr style="height: 2.5px; background-color: #666; border: none; width: 80%; margin: auto;">
 
