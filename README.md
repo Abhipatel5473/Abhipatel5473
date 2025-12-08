@@ -61,7 +61,7 @@
 | 🛒 **Amazon Clone** | Amazon-Clone — A sleek, fully responsive e-commerce web application built with modern web technologies. Featuring dynamic product listings, intuitive navigation, and mobile-first design, this clone delivers a smooth shopping experience across devices. | 🔗 [View Project](https://amazon-clone-chi-lovat.vercel.app/) |
 | 🍔 **Foodie Website** | Food-Website — A modern, fully responsive food website showcasing dishes with clean UI design and smooth navigation. Built for optimal viewing on desktop and mobile, it offers an intuitive user experience and polished presentation of menus and content. | 🔗 [View Project](https://food-website-xi-lilac.vercel.app/) |
 | 🪑 **Furnix** | Furnix — A sleek, fully responsive furniture website delivering a clean, modern user interface and smooth navigation across devices. Featuring elegant product displays and intuitive design, Furnix offers a polished browsing experience optimized for both desktop and mobile. | 🔗 [View Project](https://furnix-iota.vercel.app/) |
-| 👕 **Cara E-commerce** | Responsive online shopping UI with filters & hover effects. | 🔗 [View Project](https://cara-e-commerce-three.vercel.app/) |
+| 👕 **Cara E-commerce** | CARA E-Commerce — A modern, fully responsive online store prototype built with HTML, CSS, and JavaScript. Featuring clean product layouts, intuitive navigation, and fluid design for seamless browsing on any device. | 🔗 [View Project](https://cara-e-commerce-three.vercel.app/) |
 
 
 ## 📊 GitHub Stats
