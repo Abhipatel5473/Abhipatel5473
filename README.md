@@ -28,7 +28,7 @@
 
 - 🧩 Enjoy solving layout challenges and turning ideas into polished digital products
 <br>
-
+---
 
 <h2>⚡ Fun Side of Me</h2>
 
