@@ -10,7 +10,7 @@
 
 <p align="center">✨ Passionate about creating clean, modern, and responsive designs that enhance user experience.</p>
 <br>
-<hr style="height: 3px; background-color: #666; border: none; width: 80%; margin: auto;">
+<hr style="height: 2.5px; background-color: #666; border: none; width: 80%; margin: auto;">
 
 
 <h2>🧠 About Me</h2>
@@ -29,13 +29,15 @@
 
 - 🧩 Enjoy solving layout challenges and turning ideas into polished digital products
 <br>
----
+<hr style="height: 2.5px; background-color: #666; border: none; width: 80%; margin: auto;">
+
 
 <h2>⚡ Fun Side of Me</h2>
 
 - I turn coffee ☕ into clean UI & smooth user experience
 <br>
----
+<hr style="height: 2.5px; background-color: #666; border: none; width: 80%; margin: auto;">
+
 
 <h2>🌐 Socials</h2>
 <p>
@@ -44,7 +46,8 @@
   <a href="https://github.com/Abhipatel5473"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 <br>
----
+<hr style="height: 2.5px; background-color: #666; border: none; width: 80%; margin: auto;">
+
 
 <h2>🛠️ Tech Stack & Tools</h2>
 
@@ -61,7 +64,8 @@
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 <br>
----
+<hr style="height: 2.5px; background-color: #666; border: none; width: 80%; margin: auto;">
+
 
 <h2>🚀 Projects</h2>
 
@@ -72,7 +76,8 @@
 | 🪑 **Furnix** | Furnix — A sleek, fully responsive furniture website delivering a clean, modern user interface and smooth navigation across devices. Featuring elegant product displays and intuitive design, Furnix offers a polished browsing experience optimized for both desktop and mobile. | 🔗 [View Project](https://furnix-iota.vercel.app/) |
 | 👕 **Cara E-commerce** | CARA E-Commerce — A modern, fully responsive online store prototype built with HTML, CSS, and JavaScript. Featuring clean product layouts, intuitive navigation, and fluid design for seamless browsing on any device. | 🔗 [View Project](https://cara-e-commerce-three.vercel.app/) |
 <br>
----
+<hr style="height: 2.5px; background-color: #666; border: none; width: 80%; margin: auto;">
+
 
 <h2>📊 GitHub Stats</h2>
 
@@ -90,7 +95,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhipatel5473&theme=tokyonight&utcOffset=5" />
 </p>
 <br>
----
+<hr style="height: 2.5px; background-color: #666; border: none; width: 80%; margin: auto;">
+
 
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
 <p align="center">⭐ If you like my work, consider giving my repositories a star!</p>
