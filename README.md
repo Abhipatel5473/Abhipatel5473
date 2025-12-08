@@ -13,9 +13,7 @@
 <hr style="height: 2.5px; background-color: #666; border: none; width: 80%; margin: auto;">
 
 
-<h2>🧠 About Me</h2>
-
-👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
 I'm Abhi Patel, a passionate Front-End Developer focused on building visually engaging, responsive, and high-performance digital experiences with modern web technologies.
 
