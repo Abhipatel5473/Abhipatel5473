@@ -10,7 +10,8 @@
 
 <p align="center">✨ Passionate about creating clean, modern, and responsive designs that enhance user experience.</p>
 <br>
----
+<hr style="height: 3px; background-color: #666; border: none; width: 80%; margin: auto;">
+
 
 <h2>🧠 About Me</h2>
 
