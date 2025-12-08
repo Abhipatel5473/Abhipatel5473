@@ -9,6 +9,7 @@
 ✨ Passionate about creating clean, modern, and responsive designs that enhance user experience.
 
 
+
 ## 🧠 About Me
 
 - 🎯 Front-End Developer dedicated to building modern, responsive, and visually engaging interfaces
@@ -25,9 +26,12 @@
 
 - 🧩 Enjoy solving layout challenges and turning ideas into polished digital products
 
+
+
 ## ⚡ Fun Side of Me
 
 - I turn coffee ☕ into clean UI & smooth user experience
+
 
 
 ## 🌐 Socials
@@ -36,6 +40,7 @@
   <a href="https://www.linkedin.com/in/abhi-patel-webdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Abhipatel5473"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
 
 
 ## 🛠️ Tech Stack & Tools
@@ -54,6 +59,7 @@
 </p>
 
 
+
 ## 🚀 Projects
 
 | Project | Description | Link |
@@ -62,6 +68,7 @@
 | 🍔 **Foodie Website** | Food-Website — A modern, fully responsive food website showcasing dishes with clean UI design and smooth navigation. Built for optimal viewing on desktop and mobile, it offers an intuitive user experience and polished presentation of menus and content. | 🔗 [View Project](https://food-website-xi-lilac.vercel.app/) |
 | 🪑 **Furnix** | Furnix — A sleek, fully responsive furniture website delivering a clean, modern user interface and smooth navigation across devices. Featuring elegant product displays and intuitive design, Furnix offers a polished browsing experience optimized for both desktop and mobile. | 🔗 [View Project](https://furnix-iota.vercel.app/) |
 | 👕 **Cara E-commerce** | CARA E-Commerce — A modern, fully responsive online store prototype built with HTML, CSS, and JavaScript. Featuring clean product layouts, intuitive navigation, and fluid design for seamless browsing on any device. | 🔗 [View Project](https://cara-e-commerce-three.vercel.app/) |
+
 
 
 ## 📊 GitHub Stats
