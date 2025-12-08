@@ -4,7 +4,7 @@
 </a>
 
 
-<h1> 💻 Front-End Developer | 🎨 UI/UX Designer (Part-Time) | 🚀 Aspiring Full Stack Developer</h1>
+<h1 align="center"> 💻 Front-End Developer | 🎨 UI/UX Designer (Part-Time) | 🚀 Aspiring Full Stack Developer</h1>
 
 ✨ Passionate about creating clean, modern, and responsive designs that enhance user experience.
 
