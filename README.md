@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/Abhipatel5473">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&pause=1000&color=FF69B4&width=500&lines=👋+Hey+there!+I'm+Abhi+Patel" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&pause=1000&color=00A8FF&width=500&lines=👋+Hey+there!+I'm+Abhi+Patel" alt="Typing SVG" />
   </a>
 </p>
 
