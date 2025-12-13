@@ -79,11 +79,11 @@ To craft web experiences that blend beautiful UI, seamless usability, and modern
 <br>
 <hr style="height: 2.5px; background-color: #666; border: none; width: 80%; margin: auto;">
 
-<h1>🚀 Mini Projects</h1>
+<h1>💡 Mini Projects</h1>
 
 | Project | Description | Link |
 |----------|--------------|------|
-| 🛒 **Weather API** | Weather-API — Built a responsive Weather Application using React, HTML, and Material UI that integrates a real-time Weather API to display current weather conditions with a clean and user-friendly interface. | 🔗 [View Project](https://weather-api-nine-iota.vercel.app/) |
+| 🌦️**Weather API** | Weather-API — Built a responsive Weather Application using React, HTML, and Material UI that integrates a real-time Weather API to display current weather conditions with a clean and user-friendly interface. | 🔗 [View Project](https://weather-api-nine-iota.vercel.app/) |
 <br>
 <hr style="height: 2.5px; background-color: #666; border: none; width: 80%; margin: auto;">
 
